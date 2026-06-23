@@ -30,3 +30,5 @@ print(res)
 
 print(Employee.isValidSalary(150))
 print(Employee.isValidSalary(-1520))
+
+### Hello from Nedim!

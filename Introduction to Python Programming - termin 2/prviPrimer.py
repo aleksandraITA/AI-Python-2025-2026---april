@@ -3,6 +3,8 @@ ime = "Petar"
 print('Hello, world!')
 print(f"My name is {ime}.")
 # print("My name is", ime, ".")
+# print("My name is", ime, ".")
+# print("My name is", ime, ".")
 
 print(ime)
 # print('Test!')
